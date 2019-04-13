@@ -11,7 +11,7 @@ class `ZigZag Conversion` {
         var flag = false
         s.forEach {
             list.get(i).add(it)
-            if (i == 0 || i == numRows - 1)
+            if (i == 0 || i == numRows - 1) //開頭的話就往下 到底的話就往上
                 flag = !flag
             i += if (flag) 1 else -1
         }
