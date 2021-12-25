@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Palindrome Number.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment=" `Palindrome Number`">
+      <change afterPath="$PROJECT_DIR$/src/Container With Most Water.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lengthOfLongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/twoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/twoSum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,9 +26,6 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="82b7a4e3-fd9d-4f38-96d3-fa93afec46b8" />
   </component>
   <component name="ProjectId" id="1Tk3L9NUp5lFpSfMqGAXnDtCfql" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1555159822264</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" `Palindrome Number`">
+      <created>1573997020402</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573997020402</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -205,7 +212,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -221,7 +230,8 @@
     <MESSAGE value="ZigZag Conversion" />
     <MESSAGE value="增加註解" />
     <MESSAGE value=" `Reverse Integer`" />
-    <option name="LAST_COMMIT_MESSAGE" value=" `Reverse Integer`" />
+    <MESSAGE value=" `Palindrome Number`" />
+    <option name="LAST_COMMIT_MESSAGE" value=" `Palindrome Number`" />
   </component>
   <component name="masterDetails">
     <states>

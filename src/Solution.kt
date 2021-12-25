@@ -2,5 +2,5 @@
 
 fun main(args: Array<String>) {
 
-    print(`Palindrome Number`().isPalindrome(1231))
+    print(maxArea(intArrayOf(1,8,6,2,5,4,8,3,7)))
 }
