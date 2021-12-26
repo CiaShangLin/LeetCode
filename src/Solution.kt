@@ -2,5 +2,5 @@
 
 fun main(args: Array<String>) {
 
-    print(romanToInt("MCMXCIV"))
+    print(longestCommonPrefix(arrayOf("flower","flow","flight")))
 }
