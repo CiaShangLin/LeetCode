@@ -2,5 +2,5 @@
 
 fun main(args: Array<String>) {
 
-    print(intToRoman(400))
+    print(romanToInt("MCMXCIV"))
 }
