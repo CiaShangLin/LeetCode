@@ -4,32 +4,33 @@ class `Merge Two Sorted Lists` {
 class ListNode(var `val`: Int) {
     var next: ListNode? = null
 }
-fun mergeTwoLists(l1: ListNode?, l2: ListNode?): ListNode? {
-    var r1 = l1
-    var r2 = l2
-    val ll = ListNode(0)
-    var rr = ll
-    while(true){
-        if(r1==null && r2==null){
-            break
+
+fun mergeTwoLists(list1: ListNode?, list2: ListNode?): ListNode? {
+    var tempList1 = list1
+    var tempList2 = list2
+    var total = ListNode(0)
+    val head = total
+
+    while (tempList1 != null && tempList2 != null) {
+        val left = tempList1.`val`
+        val right = tempList2.`val`
+
+        if (left < right) {
+            total.next = ListNode(left)
+            total = total.next!!
+            tempList1 = tempList1.next
+        } else {
+            total.next = ListNode(right)
+            total = total.next!!
+            tempList2 = tempList2.next
         }
-        if(r1==null){
-            rr.next = r2
-            break
-        }
-        if(r2==null){
-            rr.next = r1
-            break
-        }
-        if(r1.`val`<=r2.`val`){
-            rr.next = r1
-            r1 = r1.next
-        }
-        else{
-            rr.next = r2
-            r2 = r2.next
-        }
-        rr = rr.next!!
     }
-    return ll.next
+
+    if (tempList1 != null) {
+        total.next = tempList1
+    }
+    if (tempList2 != null) {
+        total.next = tempList2
+    }
+    return head.next
 }

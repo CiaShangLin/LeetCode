@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Valid Parentheses`">
-      <change afterPath="$PROJECT_DIR$/src/Merge Two Sorted Lists.kt" afterDir="false" />
+    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Merge Two Sorted Lists`">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Merge Two Sorted Lists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Merge Two Sorted Lists.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640770035510</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="`Merge Two Sorted Lists`">
+      <created>1640773361531</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1640773361531</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -286,52 +293,97 @@
     <MESSAGE value="`3Sum`" />
     <MESSAGE value="`3Sum Closest`" />
     <MESSAGE value="`Valid Parentheses`" />
-    <option name="LAST_COMMIT_MESSAGE" value="`Valid Parentheses`" />
+    <MESSAGE value="`Merge Two Sorted Lists`" />
+    <option name="LAST_COMMIT_MESSAGE" value="`Merge Two Sorted Lists`" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="145" key="#Project_Structure" timestamp="1640751255746">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
     <state x="448" y="145" key="#Project_Structure/0.23.1920.1078@0.23.1920.1078" timestamp="1640751255746" />
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1640773292044">
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom" timestamp="1640774003515">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640773292044" />
+    <state width="1878" height="366" key="GridCell.Tab.0.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003515" />
     <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345538" />
-    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1640773292043">
+    <state width="1878" height="366" key="GridCell.Tab.0.center" timestamp="1640774003514">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640773292043" />
+    <state width="1878" height="366" key="GridCell.Tab.0.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003514" />
     <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345537" />
-    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1640773292043">
+    <state width="1878" height="366" key="GridCell.Tab.0.left" timestamp="1640774003514">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640773292043" />
+    <state width="1878" height="366" key="GridCell.Tab.0.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003514" />
     <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345537" />
-    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1640773292043">
+    <state width="1878" height="366" key="GridCell.Tab.0.right" timestamp="1640774003515">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640773292043" />
+    <state width="1878" height="366" key="GridCell.Tab.0.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003515" />
     <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345538" />
-    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1640753353495">
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1640774003605">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640753353495" />
-    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1640753353494">
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003605" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1640774003605">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640753353494" />
-    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1640753353494">
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003605" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1640774003605">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640753353494" />
-    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1640753353495">
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003605" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1640774003605">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640753353495" />
-    <state x="560" y="304" key="Vcs.Push.Dialog.v2" timestamp="1640770036635">
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003605" />
+    <state x="772" y="272" key="RollbackChangesDialog" timestamp="1640773763432">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state x="560" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1078@0.23.1920.1078" timestamp="1640770036635" />
+    <state x="772" y="272" key="RollbackChangesDialog/0.23.1920.1078@0.23.1920.1078" timestamp="1640773763432" />
+    <state x="560" y="304" key="Vcs.Push.Dialog.v2" timestamp="1640773365030">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state x="560" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1078@0.23.1920.1078" timestamp="1640773365030" />
+    <state x="100" y="124" width="1720" height="877" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1640774019564">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state x="100" y="124" width="1720" height="877" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.1078@0.23.1920.1078" timestamp="1640774019564" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
