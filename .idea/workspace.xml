@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`3Sum Closest`">
-      <change afterPath="$PROJECT_DIR$/src/Valid Parentheses.kt" afterDir="false" />
+    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Valid Parentheses`">
+      <change afterPath="$PROJECT_DIR$/src/Merge Two Sorted Lists.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.kt" afterDir="false" />
     </list>
@@ -238,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640767111566</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="`Valid Parentheses`">
+      <created>1640770035510</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1640770035510</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -278,29 +285,34 @@
     <MESSAGE value="`Roman to Integer`" />
     <MESSAGE value="`3Sum`" />
     <MESSAGE value="`3Sum Closest`" />
-    <option name="LAST_COMMIT_MESSAGE" value="`3Sum Closest`" />
+    <MESSAGE value="`Valid Parentheses`" />
+    <option name="LAST_COMMIT_MESSAGE" value="`Valid Parentheses`" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="145" key="#Project_Structure" timestamp="1640751255746">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
     <state x="448" y="145" key="#Project_Structure/0.23.1920.1078@0.23.1920.1078" timestamp="1640751255746" />
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1640769675650">
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1640773292044">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640769675650" />
-    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1640769675649">
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640773292044" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345538" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1640773292043">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640769675649" />
-    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1640769675648">
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640773292043" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345537" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1640773292043">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640769675648" />
-    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1640769675649">
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640773292043" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345537" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1640773292043">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640769675649" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640773292043" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345538" />
     <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1640753353495">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
@@ -317,9 +329,9 @@
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
     <state width="1878" height="366" key="GridCell.Tab.1.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640753353495" />
-    <state x="560" y="304" key="Vcs.Push.Dialog.v2" timestamp="1640767112729">
+    <state x="560" y="304" key="Vcs.Push.Dialog.v2" timestamp="1640770036635">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state x="560" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1078@0.23.1920.1078" timestamp="1640767112729" />
+    <state x="560" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1078@0.23.1920.1078" timestamp="1640770036635" />
   </component>
 </project>
