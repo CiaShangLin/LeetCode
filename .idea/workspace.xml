@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`3Sum`">
-      <change afterPath="$PROJECT_DIR$/src/3Sum Closest.kt" afterDir="false" />
+    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`3Sum Closest`">
+      <change afterPath="$PROJECT_DIR$/src/Valid Parentheses.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/addTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/lengthOfLongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/twoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/twoSum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640753332427</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="`3Sum Closest`">
+      <created>1640767111566</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1640767111566</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -274,29 +277,30 @@
     <MESSAGE value="`Integer to Roman" />
     <MESSAGE value="`Roman to Integer`" />
     <MESSAGE value="`3Sum`" />
-    <option name="LAST_COMMIT_MESSAGE" value="`3Sum`" />
+    <MESSAGE value="`3Sum Closest`" />
+    <option name="LAST_COMMIT_MESSAGE" value="`3Sum Closest`" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="145" key="#Project_Structure" timestamp="1640751255746">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
     <state x="448" y="145" key="#Project_Structure/0.23.1920.1078@0.23.1920.1078" timestamp="1640751255746" />
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1640766999483">
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1640769675650">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640766999483" />
-    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1640766999482">
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640769675650" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1640769675649">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640766999482" />
-    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1640766999482">
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640769675649" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1640769675648">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640766999482" />
-    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1640766999482">
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640769675648" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1640769675649">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640766999482" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640769675649" />
     <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1640753353495">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
@@ -313,9 +317,9 @@
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
     <state width="1878" height="366" key="GridCell.Tab.1.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640753353495" />
-    <state x="560" y="304" key="Vcs.Push.Dialog.v2" timestamp="1640753352453">
+    <state x="560" y="304" key="Vcs.Push.Dialog.v2" timestamp="1640767112729">
       <screen x="0" y="23" width="1920" height="1078" />
     </state>
-    <state x="560" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1078@0.23.1920.1078" timestamp="1640753352453" />
+    <state x="560" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1078@0.23.1920.1078" timestamp="1640767112729" />
   </component>
 </project>
