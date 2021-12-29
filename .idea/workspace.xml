@@ -1,12 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Roman to Integer`">
-      <change afterPath="$PROJECT_DIR$/src/Longest Common Prefix.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/3Sum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.kt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +43,12 @@
   </component>
   <component name="ProjectId" id="1Tk3L9NUp5lFpSfMqGAXnDtCfql" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554996054468" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -36,18 +59,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shang\workspace\LeetCode\src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -72,7 +83,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -110,6 +121,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -229,13 +241,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -253,93 +264,42 @@
     <MESSAGE value="`Roman to Integer`" />
     <option name="LAST_COMMIT_MESSAGE" value="`Roman to Integer`" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>groovy-2.4.13</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>LeetCode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>KotlinJavaRuntime</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="448" y="145" key="#Project_Structure" timestamp="1640751255746">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state x="448" y="145" key="#Project_Structure/0.23.1920.1078@0.23.1920.1078" timestamp="1640751255746" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1640752964162">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640752964162" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1640752964161">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640752964161" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1640752964161">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640752964161" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1640752964161">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640752964161" />
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1640752832135">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640752832135" />
+    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1640752832134">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640752832134" />
+    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1640752832134">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640752832134" />
+    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1640752832134">
+      <screen x="0" y="23" width="1920" height="1078" />
+    </state>
+    <state width="1878" height="366" key="GridCell.Tab.1.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640752832134" />
   </component>
 </project>
