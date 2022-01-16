@@ -1,29 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Merge Two Sorted Lists`">
+    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Roman to Integer`">
+      <change afterPath="$PROJECT_DIR$/src/Remove Element.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Merge Two Sorted Lists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Merge Two Sorted Lists.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.kt" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +16,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -43,12 +26,7 @@
   </component>
   <component name="ProjectId" id="1Tk3L9NUp5lFpSfMqGAXnDtCfql" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554996054468" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -59,6 +37,18 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Shang\workspace\LeetCode\src" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -83,7 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="SolutionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -121,7 +111,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -224,35 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640518228174</updated>
     </task>
-    <task id="LOCAL-00014" summary="`3Sum`">
-      <created>1640753332427</created>
+    <task id="LOCAL-00014" summary="Remove Duplicates from Sorted Array">
+      <created>1642314644695</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1640753332427</updated>
+      <updated>1642314644695</updated>
     </task>
-    <task id="LOCAL-00015" summary="`3Sum Closest`">
-      <created>1640767111566</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1640767111566</updated>
-    </task>
-    <task id="LOCAL-00016" summary="`Valid Parentheses`">
-      <created>1640770035510</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1640770035510</updated>
-    </task>
-    <task id="LOCAL-00017" summary="`Merge Two Sorted Lists`">
-      <created>1640773361531</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1640773361531</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -269,12 +237,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -290,100 +259,7 @@
     <MESSAGE value="`Container With Most Water`" />
     <MESSAGE value="`Integer to Roman" />
     <MESSAGE value="`Roman to Integer`" />
-    <MESSAGE value="`3Sum`" />
-    <MESSAGE value="`3Sum Closest`" />
-    <MESSAGE value="`Valid Parentheses`" />
-    <MESSAGE value="`Merge Two Sorted Lists`" />
-    <option name="LAST_COMMIT_MESSAGE" value="`Merge Two Sorted Lists`" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="448" y="145" key="#Project_Structure" timestamp="1640751255746">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state x="448" y="145" key="#Project_Structure/0.23.1920.1078@0.23.1920.1078" timestamp="1640751255746" />
-    <state width="1878" height="366" key="GridCell.Tab.0.bottom" timestamp="1640774003515">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state width="1878" height="366" key="GridCell.Tab.0.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003515" />
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345538" />
-    <state width="1878" height="366" key="GridCell.Tab.0.center" timestamp="1640774003514">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state width="1878" height="366" key="GridCell.Tab.0.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003514" />
-    <state width="1878" height="297" key="GridCell.Tab.0.center/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345537" />
-    <state width="1878" height="366" key="GridCell.Tab.0.left" timestamp="1640774003514">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state width="1878" height="366" key="GridCell.Tab.0.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003514" />
-    <state width="1878" height="297" key="GridCell.Tab.0.left/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345537" />
-    <state width="1878" height="366" key="GridCell.Tab.0.right" timestamp="1640774003515">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state width="1878" height="366" key="GridCell.Tab.0.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003515" />
-    <state width="1878" height="297" key="GridCell.Tab.0.right/0.23.1920.1080@0.23.1920.1080" timestamp="1640772345538" />
-    <state width="1878" height="366" key="GridCell.Tab.1.bottom" timestamp="1640774003605">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.bottom/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003605" />
-    <state width="1878" height="366" key="GridCell.Tab.1.center" timestamp="1640774003605">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.center/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003605" />
-    <state width="1878" height="366" key="GridCell.Tab.1.left" timestamp="1640774003605">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.left/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003605" />
-    <state width="1878" height="366" key="GridCell.Tab.1.right" timestamp="1640774003605">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state width="1878" height="366" key="GridCell.Tab.1.right/0.23.1920.1078@0.23.1920.1078" timestamp="1640774003605" />
-    <state x="772" y="272" key="RollbackChangesDialog" timestamp="1640773763432">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state x="772" y="272" key="RollbackChangesDialog/0.23.1920.1078@0.23.1920.1078" timestamp="1640773763432" />
-    <state x="560" y="304" key="Vcs.Push.Dialog.v2" timestamp="1640773365030">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state x="560" y="304" key="Vcs.Push.Dialog.v2/0.23.1920.1078@0.23.1920.1078" timestamp="1640773365030" />
-    <state x="100" y="124" width="1720" height="877" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1640774019564">
-      <screen x="0" y="23" width="1920" height="1078" />
-    </state>
-    <state x="100" y="124" width="1720" height="877" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1920.1078@0.23.1920.1078" timestamp="1640774019564" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
-          <line>21</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
-          <line>18</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
-          <line>13</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
-          <line>14</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
-          <line>26</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/Merge Two Sorted Lists.kt</url>
-          <line>29</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Remove Duplicates from Sorted Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicates from Sorted Array" />
   </component>
 </project>
