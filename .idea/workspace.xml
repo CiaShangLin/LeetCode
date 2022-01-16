@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Roman to Integer`">
-      <change afterPath="$PROJECT_DIR$/src/Remove Element.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Remove Element`">
+      <change afterPath="$PROJECT_DIR$/src/removeNthFromEnd.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.kt" afterDir="false" />
     </list>
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -220,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642314644695</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="`Remove Element`">
+      <created>1642317910493</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642317910493</updated>
+    </task>
+    <task id="LOCAL-00016" summary=" `Divide Two Integers`">
+      <created>1642322543213</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642322543213</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -260,6 +274,8 @@
     <MESSAGE value="`Integer to Roman" />
     <MESSAGE value="`Roman to Integer`" />
     <MESSAGE value="Remove Duplicates from Sorted Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicates from Sorted Array" />
+    <MESSAGE value="`Remove Element`" />
+    <MESSAGE value=" `Divide Two Integers`" />
+    <option name="LAST_COMMIT_MESSAGE" value=" `Divide Two Integers`" />
   </component>
 </project>
