@@ -1,4 +1,4 @@
 fun main(args: Array<String>) {
 
-    println(removeElement(intArrayOf(3,2,2,3),2))
+    println(divide(2147483647,2))
 }
