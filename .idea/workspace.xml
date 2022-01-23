@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="`Remove Element`">
-      <change afterPath="$PROJECT_DIR$/src/removeNthFromEnd.kt" afterDir="false" />
+    <list default="true" id="6a7895dd-3295-4569-8213-bc8f37c65643" name="Default" comment="removeNthFromEnd">
+      <change afterPath="$PROJECT_DIR$/src/Search in Rotated Sorted Array.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,7 +233,28 @@
       <option name="project" value="LOCAL" />
       <updated>1642322543213</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="removeNthFromEnd">
+      <created>1642332027596</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1642332027596</updated>
+    </task>
+    <task id="LOCAL-00018" summary="`Generate Parentheses`">
+      <created>1642922202664</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642922202664</updated>
+    </task>
+    <task id="LOCAL-00019" summary="`Pow(x, n)`">
+      <created>1642925659844</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1642925659844</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -276,6 +296,9 @@
     <MESSAGE value="Remove Duplicates from Sorted Array" />
     <MESSAGE value="`Remove Element`" />
     <MESSAGE value=" `Divide Two Integers`" />
-    <option name="LAST_COMMIT_MESSAGE" value=" `Divide Two Integers`" />
+    <MESSAGE value="removeNthFromEnd" />
+    <MESSAGE value="`Generate Parentheses`" />
+    <MESSAGE value="`Pow(x, n)`" />
+    <option name="LAST_COMMIT_MESSAGE" value="`Pow(x, n)`" />
   </component>
 </project>
