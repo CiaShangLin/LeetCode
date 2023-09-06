@@ -1,13 +1,13 @@
-class Permutations {
-    fun permute(nums: IntArray): List<List<Int>> {
+class `Permutations II` {
+    fun permuteUnique(nums: IntArray): List<List<Int>> {
 
         val ans = mutableListOf<List<Int>>()
         val used = BooleanArray(nums.size)
         dsf(nums, mutableListOf(), ans, used)
 
-        return ans
+        //剔除重複的,應該有更優解才對
+        return ans.distinct()
     }
-
     private fun dsf(nums: IntArray, temp: MutableList<Int>, ans: MutableList<List<Int>>, used: BooleanArray) {
         // 如果排列已經包含了所有數字，則將其添加到結果中
         if (temp.size == nums.size) {
