@@ -6,6 +6,7 @@ class `Jump Game II` {
         var curEnd = 0
         var curFar = 0
         for (i in 0 until nums.size-1) {
+            //i=起始步伐,nums[i]=可以移動的距離
             curFar = max(curFar, i + nums[i])
             //採的步數剛好等於最遠距離,如果curFar超過了nums.size-1那就代表已經超過了
             //這一題沒有要求要剛好,所以用貪婪演算法就可以了,難在curEnd的計算
